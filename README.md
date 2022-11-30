@@ -32,6 +32,7 @@ _id, email, fullName, createdAt, updatedAt, \__v
 ## 6. View total cost of cart and place order
 ## _7. Users with admin role can add products, delete products, update products, add users, update users and delete users alonside the functionalities of normal users._
 
+
 # **4.Tech Stack Used**
 ## ReactJs - Reusable frontend components
 ## CSS - Styling the frontend 
@@ -39,6 +40,7 @@ _id, email, fullName, createdAt, updatedAt, \__v
 ## ExpressJs - Backend (server) functionalities along with db connectivity
 ## MongoDB - NoSQL Database 
 ## Redux - State Management Library for React
+
 
 # **5.Future Scope**
 ## 1. Admin Daashboard - 
@@ -55,6 +57,7 @@ Allow users to login with facebook, google, etc.
 
 ## 5. Integrate a payment portal -
 Allow users to complete online payment transactions upon succesfully placing an order and generate a transcript of the same
+
 
 # **6. Authors**
 ## Yash Shah - 16010120103 - @yash2705
