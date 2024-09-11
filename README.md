@@ -8,10 +8,8 @@ _id, email, fullName, createdAt, updatedAt, \__v
 ![WhatsApp Image 2022-12-01 at 00 08 06](https://user-images.githubusercontent.com/62518145/204881107-fe3b4e06-7f1a-4eed-88b7-0363c1e97afc.jpg)
 
 # **2.FRONTEND UI**
-## Home Page -
 ![WhatsApp Image 2022-12-01 at 00 18 35](https://user-images.githubusercontent.com/62518145/204883050-54979a42-8330-43c7-ad7d-d1f1e8e35bfc.jpg)
 
-## Product Details Page - 
 ![WhatsApp Image 2022-12-01 at 00 23 30](https://user-images.githubusercontent.com/62518145/204884129-bdc34cd3-9ceb-4228-aa17-0d230cd24bee.jpg)
 
 ## Cart Details Page -
